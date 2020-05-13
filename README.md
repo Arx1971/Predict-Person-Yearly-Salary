@@ -2,7 +2,8 @@
 <ul>
     <li>Data Set Information:</li>
     <li>Listing of attributes:</li>
-    * The last column >50K, <=50K is the target variable indicating whether the people earn less than or larger than 50K per year
+
+* The last column >50K, <=50K is the target variable indicating whether the people earn less than or larger than 50K per year
 
 * age: continuous.
 * workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
