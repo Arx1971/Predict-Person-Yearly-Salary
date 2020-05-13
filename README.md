@@ -22,27 +22,23 @@
 
 <h2>Result</h2>
 <ul>
-    <h3>2D Self Avoiding Random Walk</h3>
-    <li>The mean (or average) of the end-to-end squared distance is given by the average:
-        <img src="https://github.com/Arx1971/Self-Avoiding-Random-Walk-Data-Analysis/blob/master/img_source/2d_R.png"
-                    alt="Self Avoiding Random Walk"
+    <h3>Gender Graph:</h3>
+             <li>Salary Distribution By Gender: 
+                 <img src="https://github.com/Arx1971/Predict-Person-Yearly-Salary/blob/master/Screenshot%20from%202020-05-13%2000-45-50.png"
+                             alt="Salary Distribution By Gender"
+                             style="float: left; margin-right: 10px;" />
+    </li>
+    <h3>Correlation HeatMap/h3>
+    <li>Correlation in DataSet: 
+        <img src="https://github.com/Arx1971/Predict-Person-Yearly-Salary/blob/master/Screenshot%20from%202020-05-13%2000-44-24.png"
+                    alt="HeatMap"
                     style="float: left; margin-right: 10px;" />
     </li>
-    <h3>3D Self Avoiding Random Walk</h3>
-        <li>The mean (or average) of the end-to-end squared distance is given by the average:
-            <img src="https://github.com/Arx1971/Self-Avoiding-Random-Walk-Data-Analysis/blob/master/img_source/3d_r.png"
-                        alt="Self Avoiding Random Walk"
+    <h3>ConfusionMatrix: </h3>
+        <li>Logistic Regression Confusion Matrix: 
+            <img src="https://github.com/Arx1971/Predict-Person-Yearly-Salary/blob/master/Screenshot%20from%202020-05-13%2000-45-11.png"
+                        alt="ConfusionMatrix"
                         style="float: left; margin-right: 10px;" />
     </li>
-     <h3>4D Self Avoiding Random Walk</h3>
-             <li>The mean (or average) of the end-to-end squared distance is given by the average:
-                 <img src="https://github.com/Arx1971/Self-Avoiding-Random-Walk-Data-Analysis/blob/master/img_source/4d_r.png"
-                             alt="Self Avoiding Random Walk"
-                             style="float: left; margin-right: 10px;" />
-         </li>
-          
-    
-    
      
-    
 </ul> 
