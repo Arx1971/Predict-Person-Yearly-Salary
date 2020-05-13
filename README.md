@@ -28,7 +28,7 @@
                              alt="Salary Distribution By Gender"
                              style="float: left; margin-right: 10px;" />
     </li>
-    <h3>Correlation HeatMap/h3>
+    <h3>Correlation HeatMap/<h3>
     <li>Correlation in DataSet: 
         <img src="https://github.com/Arx1971/Predict-Person-Yearly-Salary/blob/master/Screenshot%20from%202020-05-13%2000-44-24.png"
                     alt="HeatMap"
